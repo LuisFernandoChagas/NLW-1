@@ -9,7 +9,7 @@
 
 # 💻Index
 - [About](#-About)
-- [How to create a new point of collect](#-How-to-create-a-new-point-of-collect)
+- [How to create a new point of collect](#-how-to-create-a-new-point-of-collect)
 - [Technologies used](#-technologies-used)
 - [How to use](#-how-to-use)
 - [Credits](#-credits)
