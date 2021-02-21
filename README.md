@@ -7,12 +7,12 @@
     <img src="./public/assets/landing-page.png">
 </h4>
 
-# 💻Index
+# 💻 Index
 - [About](#-About)
 - [How to create a new point of collect](#-how-to-create-a-new-point-of-collect)
 - [Technologies used](#-technologies-used)
 - [How to use](#-how-to-use)
-- [Credits](#-credits)
+- [Credits](#credits)
 
 ---
 
