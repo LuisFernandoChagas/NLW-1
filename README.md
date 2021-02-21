@@ -22,7 +22,7 @@ The project Ecoleta was developed during the **International environment day**. 
 
 ---
 
-## 🔬How to create a new point of collect
+## 🔬 How to create a new point of collect
 
 - Informations required:
 1. Entity name;
